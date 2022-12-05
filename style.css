@@ -1,0 +1,23 @@
+h1{
+font-size: 30px;
+text-align: center;
+font-family: Rockwell;
+color: #AF96B6
+}
+
+p{
+font-size: 20px;
+text-align: left;
+text-align: center;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #CECBE2;
+text-align: center;
+}
+
+div {
+  display: flex;
+justify-content: center;
+}
